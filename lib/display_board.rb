@@ -2,6 +2,7 @@
 def display_board
   puts "   |   |   "
   puts "-----------"
+  puts "   |   |   "
   expected_output += "-----------\n"
   expected_output += "   |   |   \n"
   expected_output += "-----------\n"
